@@ -1,0 +1,11 @@
+        <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M126 40 L131 99 L148 125 L153 162 L147 204 L144 270" stroke="rgba(232,183,78,.45)" stroke-width="3"></path>
+          <path d="M18 160 L40 161 L95 166 L153 162 L215 158 L285 150" stroke="rgba(232,183,78,.28)" stroke-width="2"></path>
+          <path d="M156 112 L200 108 L230 96 L260 89 L285 84" stroke="rgba(232,183,78,.28)" stroke-width="2"></path>
+          <path d="M131 99 L156 112" stroke="rgba(232,183,78,.22)" stroke-width="1.5"></path>
+          <path d="M95 225 L120 211 L147 204" stroke="rgba(232,183,78,.22)" stroke-width="1.5"></path>
+          <path d="M40 161 L60 120 L100 100 L131 99" stroke="rgba(232,183,78,.15)" stroke-width="1.2"></path>
+        </g>
+        <text x="131" y="52" font-size="7" fill="rgba(232,183,78,.6)" font-family="DM Sans, sans-serif">I-49</text>
+        <text x="60" y="158" font-size="7" fill="rgba(232,183,78,.5)" font-family="DM Sans, sans-serif">US-412</text>
+        <text x="208" y="98" font-size="7" fill="rgba(232,183,78,.5)" font-family="DM Sans, sans-serif">US-62</text>
